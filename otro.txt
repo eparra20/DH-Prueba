@@ -1,1 +1,9 @@
-agrego contenido a otro txt
+git init 
+git COMMIT -m 
+PULL
+PUSH
+status
+add
+checkout
+diff
+log
